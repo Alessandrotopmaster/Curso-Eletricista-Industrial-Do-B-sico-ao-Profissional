@@ -1,0 +1,5 @@
+Adicione aqui:
+- imagens/ — diagramas de força/comandos, materiais, fluxos de cadastro
+- audio/ — narrações e explicações
+- videos/ — demonstrações e processos de credenciamento
+- provas/ — avaliações e modelos de orçamento/contrato
